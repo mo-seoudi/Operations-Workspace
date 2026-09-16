@@ -25,4 +25,5 @@ Enter information once at the point where the work happens, then reuse it across
 
 ## Status
 
-Early product prototype. The first build will focus on the core operations experience before adding production backend infrastructure and integrations.
+Early product prototype.
+The first build will focus on the core operations experience before adding production backend infrastructure and integrations.
